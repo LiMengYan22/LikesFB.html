@@ -1,0 +1,46 @@
+
+
+
+<div id='ventana-flotante'>
+
+<a class='cerrar' href='javascript:void(0);' onclick='document.getElementById(&apos;ventana-flotante&apos;).className = &apos;oculto&apos;'>X</a>
+
+
+
+<div id='contenedor'>
+<div class='contenido'>
+
+<iframe src="http://www.facebook.com/plugins/likebox.php?
+href=https%3A%2F%2Fwww.facebook.com%2Fpages%2F(un Likebox de FB..)&amp;
+width=400&amp;
+height=400&amp;
+colorscheme=dark&amp;
+show_faces=true&amp;
+header=false&amp;
+stream=false&amp;
+show_border=false" scrolling="no" frameborder="0" style="border:none; 
+overflow:hidden;
+width:400px; 
+height:400px;"
+allowTransparency="true">
+</iframe>
+
+<!-- Aqui otro modelo de página:-->
+
+<iframe src="http://www.facebook.com/plugins/follow?
+href=https://www.facebook.com/pages/(una Página para seguirla de FB)&amp;
+layout=standard&amp;
+show_faces=true&amp;
+colorscheme=light&amp;
+width=450&amp;
+height=50" scrolling="no" frameborder="0" style="border:none;
+overflow:hidden; 
+width:450px; 
+height:50px;"
+allowTransparency="true"; 
+align="center"></iframe>
+
+</div>
+</div>
+
+</div>
